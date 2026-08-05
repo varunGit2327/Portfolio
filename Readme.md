@@ -251,10 +251,10 @@ Portfolio/
 
 <div align="center">
 
-### ⭐ If you like this portfolio, don't forget to give this repository a star.
+###  If you like this portfolio, don't forget to give this repository a ⭐star.
 
 **Designed & Developed by Varun Kumar**
 
-Open to Software Development and Internship Opportunities 🚀
+Open to Software Development and Internship Opportunities 
 
 </div>
