@@ -204,11 +204,36 @@ The portfolio includes an intelligent AI assistant that can answer questions abo
 
 ```
 Portfolio/
+├── images/
+│   ├── img_01.png
+│   ├── img_04.png
+│   ├── img_05.png
+│   ├── img_06.gif
+│   ├── img_07.gif
+│   ├── img_08.gif
+│   ├── img_09.png
+│   ├── img_10.png
+│   ├── img_11.png
+│   ├── img_12.png
+│   ├── img_13.png
+│   ├── img_14.png
+│   ├── img_15.png
+│   ├── img_16.png
+│   ├── img_17.png
+│   ├── img_18.png
+│   ├── img_19.png
+│   ├── img_20.png
+│   ├── img_21.png
+│   └── img_22.png
+│
+├── LICENSE
+├── README.md
+├── resume.pdf
+├── index.html
 ├── profile.png
 ├── screenshot.png
-├── index.html
-├── README.md
-└── resume.pdf
+├── script.js
+└── styles.css
 ```
 
 ---
