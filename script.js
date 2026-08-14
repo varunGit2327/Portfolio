@@ -32,7 +32,7 @@
   // ════════════════════════════════════════════════════════════
   //  AI ASSISTANT
   // ════════════════════════════════════════════════════════════
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
 const MODEL = "llama-3.3-70b-versatile";
   const SYSTEM_PROMPT = `You are Varun Kumar's AI Portfolio Assistant, embedded on his personal developer portfolio website.
